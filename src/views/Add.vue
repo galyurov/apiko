@@ -161,6 +161,7 @@ export default {
   &__wrap {
     max-width: 664px;
     margin: 0 auto;
+    padding: 0 10px;
   }
 }
 
@@ -195,7 +196,6 @@ export default {
     color: rgba(102, 102, 102, 0.466455);
   }
 }
-
 .form__label {
   position: absolute;
   top: -15px;

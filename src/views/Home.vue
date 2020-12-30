@@ -674,6 +674,9 @@ export default {
   .search__name[data-v-0446108a] {
     max-width: 51%;
   }
+  .footer {
+    position: static;
+  }
 }
 @media screen and (max-width: 680px){
   .home__items {

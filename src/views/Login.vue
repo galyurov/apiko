@@ -221,4 +221,9 @@ export default {
     margin-top: 20px;
   }
 }
+@media screen and (max-width: 490px){
+  .card{
+    width: 300px;
+  }
+}
 </style>

@@ -134,7 +134,7 @@ export default {
   },
  computed:{
     checkRoute(){
-      return this.$router.currentRoute.path.includes('/add')
+      return this.$route.path.includes('/add')
     },
     letter(){
       return this.$store.getters.info ? this.$store.getters.info.name.slice(0,1) : ''

@@ -247,6 +247,9 @@ export default {
 .mb0 {
   margin-bottom: 0;
 }
+.card{
+  width: 300px;
+}
 
 .invalid {
   border-color: #f79483;
